@@ -1,6 +1,9 @@
 # 💫 About Me:
 Soy un desarrollador Full Stack con preferencias por el Back-End.<br><br>Actualmente estoy interiorizándome aun mas en MERN Stack.<br><br>También me encuentro aprendiendo Python, PHP y MEAN Stack.<br><br>Tengo 22 años y soy de Argentina<br><br> Mi ultimo proyecto fue <a href="https://happytails.vercel.app">Happy Tails</a> y <a href="https://github.com/orgs/Final-Proyect-PETS/repositories">aca</a> pueden ver los repos
 
+# 📩 How to reach me?:
+Email: manumu99@hotmail.com
+Tel: +54 9 2920277366
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manu.muller7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manuel-muller/) 
